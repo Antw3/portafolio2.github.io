@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.title {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-align: center;
+	background-color: coral;
+	color: white;
+	font-size: 35px;
+	
+}
+
+*{
+	padding: 0px;
+	margin: 0px; 
+}
+
+.parrafos{
+	margin: 50px;
+	font-size: 25px;
+	
+	
+}
